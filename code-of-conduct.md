@@ -1,5 +1,5 @@
 CONTRIBUTOR CODE
-Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivized to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical.
+-Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivized to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical.
 
 Some open source projects attract enough contributors that a community forms. A healthy open source community centers the shared values and norms of its members. While not all of these values are the exactly the same from community to community, there is a set of core values and norms that are essential in a just and equitable software commons.
 
